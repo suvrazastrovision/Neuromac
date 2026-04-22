@@ -1,4 +1,4 @@
-# 🧠 Neuromac: SVZ Neuroimmune Interaction Mapping
+# 🧠 SVZ Neuroimmune Interaction Mapping
 
 > Translating single-cell neurobiology into therapeutic insights
 
