@@ -12,6 +12,3 @@ After a stroke, the neurogenic response from the subventricular zone (SVZ) to re
 ## 📄 Associated Publication
 📰 *Nature Communications (2024)*  
 👉 https://www.nature.com/articles/s41467-024-53217-1
-
----
-
