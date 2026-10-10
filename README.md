@@ -1,5 +1,7 @@
 # SVZ Neuroimmune Interaction Mapping
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23278273.svg)](https://doi.org/10.5281/zenodo.23278273)
+
 > Translating single-cell neurobiology into therapeutic insights
 
 ---
